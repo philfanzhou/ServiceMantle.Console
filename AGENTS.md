@@ -5,7 +5,7 @@ ServiceMantle.Console 是面向 ServiceMantle-powered services 的可复用管�
 ## 维护方式
 
 - 本文件是 AI 协作流程、review 政策和项目边界的统一入口。
-- Codex 直接读取本文件；Claude Code 通过根目录 `CLAUDE.md` 导入本文件。
+- Codex 直接读取本文件；Claude Code v2.1.277+ 同样直接读取本文件，无需 `CLAUDE.md` 导入。
 - 若新增前端框架、构建脚本或设计系统规则，可在本文件中补充，但不得覆盖统一的范围、安全和 review 约束。
 
 ## 文档与沟通语言
